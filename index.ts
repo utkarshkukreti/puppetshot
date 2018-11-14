@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import * as puppeteer from 'puppeteer';
 import * as yargs from 'yargs';
 
